@@ -1,0 +1,6 @@
+{
+  "name": "Bait Bikes Rust CI",
+  "description": "Format, lint, and test a Rust repository using the organization baseline.",
+  "iconName": "octicon-shield-check",
+  "categories": ["Rust"]
+}

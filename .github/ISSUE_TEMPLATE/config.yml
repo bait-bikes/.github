@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security report
+    url: https://github.com/bait-bikes/.github/security/policy
+    about: Use the private security-reporting guidance.
+  - name: Public education site
+    url: https://bait-bikes.github.io
+    about: Learn about operations, technology, and partnerships.
